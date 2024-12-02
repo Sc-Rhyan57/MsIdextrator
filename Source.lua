@@ -78,7 +78,7 @@ local function criarPainel()
 
     -- Título com animação
     local titleLabel = Instance.new("TextLabel", mainFrame)
-    titleLabel.Text = "Painel Avançado do Jogo"
+    titleLabel.Text = "MsExtrator ID"
     titleLabel.Size = UDim2.new(1, 0, 0.1, 0)
     titleLabel.BackgroundTransparency = 1
     titleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
